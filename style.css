@@ -1,0 +1,66 @@
+body{
+}
+
+.formula{
+
+    background:#111;
+
+    padding:15px;
+
+    border-radius:10px;
+
+    margin-top:15px;
+
+    margin-bottom:15px;
+
+    font-size:20px;
+}
+
+.question{
+
+    margin-top:15px;
+
+    background:rgba(255,255,255,0.08);
+
+    padding:12px;
+
+    border-radius:10px;
+}
+
+input,
+select{
+
+    width:100%;
+
+    max-width:400px;
+
+    padding:12px;
+
+    margin-top:10px;
+
+    margin-bottom:15px;
+
+    border:none;
+
+    border-radius:10px;
+
+    font-size:16px;
+}
+
+.calculate-btn{
+
+    padding:12px 20px;
+
+    background:#00adb5;
+
+    color:white;
+
+    border:none;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+    margin-top:15px;
+
+    transition:0.3s;
